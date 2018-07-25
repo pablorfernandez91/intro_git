@@ -1,3 +1,29 @@
+header{
+	background-color: green;
+	height: 80px;
+	padding: 0 20px 0 20px;
+	
+}
+
 body{
 	font-family: helvetica;
+	color: blue;
+}
+
+.titulo-principal{
+	color: red;
+}
+.nav-barra{
+	display: flex;
+	padding: 0;
+	background-color: green;
+}
+
+main{
+	font-size: 40px;
+}
+.box{
+	width: 130px;
+	height: 130px;
+	background: orange;
 }
